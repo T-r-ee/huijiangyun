@@ -125,6 +125,7 @@ export default {
   width: 1490px;
   justify-content: space-between; 
   flex: 1;
+  height: 790px;
   display: flex;
   .box {
     width: 738px;

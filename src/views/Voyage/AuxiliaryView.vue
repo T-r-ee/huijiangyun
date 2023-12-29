@@ -264,6 +264,7 @@ export default {
   position: relative;
   width: 1490px;
   justify-content: space-between;
+  height: 790px;
   flex: 1;
   display: flex;
   .box1 {
